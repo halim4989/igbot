@@ -40,6 +40,7 @@ I only figured out `check_media()` is always returning `False` so I commented it
 
 **Didn't change those opend in binary mode** marked as `x`
 
+still showing some errors though
 
 ---
 ---
