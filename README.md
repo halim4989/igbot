@@ -18,7 +18,7 @@ I only figured out `check_media()` is always returning `False` so I commented it
 ![NO comments fix](https://user-images.githubusercontent.com/71658024/116227568-1bd73400-a776-11eb-9622-18c9bad56882.jpg) <br>
 
 
-## 3. After Filtration 0 Media Left
+## 2. After Filtration 0 Media Left
 couldn't fetch medias from feed, <br>
 
 added `filtration=True` option to make it `false`<br>
@@ -26,7 +26,7 @@ added `filtration=True` option to make it `false`<br>
 
 
 ---
-## 2. UnicodeDecodeError: 'charmap' codec can't decode
+## 3. UnicodeDecodeError: 'charmap' codec can't decode
 ![UnicodeDecodeError](https://user-images.githubusercontent.com/71658024/116223186-19261000-a771-11eb-9819-c97063114d7c.jpg) <br>
 
 #### added `encoding="utf8"` to File open functions..
