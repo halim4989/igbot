@@ -21,7 +21,7 @@ I only figured out `check_media()` is always returning `False` so I commented it
 ## 3. After Filtration 0 Media Left
 couldn't fetch medias from feed, <br>
 
-added `filtration=True` option to make it `false`
+added `filtration=True` option to make it `false`<br>
 ![no media1](https://user-images.githubusercontent.com/71658024/116827793-ba232980-abbc-11eb-8ef6-2277a6f721cf.jpg) <br>
 
 
